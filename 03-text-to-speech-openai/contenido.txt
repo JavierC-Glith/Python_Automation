@@ -1,0 +1,3 @@
+Convertidor de texto a voz en tiempo real 
+con selección de voces y reproducción integrada 
+mediante la API de síntesis de OpenAI
