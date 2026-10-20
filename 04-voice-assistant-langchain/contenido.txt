@@ -1,0 +1,3 @@
+Asistente conversacional por micrófono que 
+captura voz mediante `streamlit-mic-recorder` 
+y responde con `LangChain`
